@@ -1,2 +1,3 @@
 git restore Versionamento2.txt
-Adicione o arquivo no git                           
+Adicione o arquivo no git
+git restaure Versionamento2.txt
